@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+title: doapmine-bits
+email: shridharmanvi@gmail.com
+description: My-home.online
+url: https://shridharmanvi.github.io # the base hostname & protocol for your site
+keywords: ["Programming", "java", "python", "bash"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          NewYork/EST
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Shridhar Manvi
   avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
+  job: "Software engineer | Data engineer"
+  bio: "A software developer who loves building things and data pipelining"
+  email: shridharmanvi@gmail.com
+  disqus-shortname: shridharmanvi
+  twitter: shridharmanvi #username
   facebook: #username
   google:
     plus: #username
@@ -48,20 +48,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: shridharmanvi #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: renyuan-zou-69b7038a #username
   xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  telegram: #username
+  instagram: 5point5shots
