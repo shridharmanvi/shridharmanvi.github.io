@@ -1,8 +1,7 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: University of Texas at Arlington
+  link: https://www.uta.edu/uta/
+  date: 2014 - 2016
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: M.S.Ramaiah Institute of Technology
+  link: http://www.msrit.edu/
+  date: 2008 - 2012
