@@ -35,21 +35,15 @@ kramdown:
 owner:
   name: Shridhar Manvi
   job: "Software engineer | Data engineer"
-  bio: "A software developer who loves building things and coffee"
+  bio: "A software developer who loves coffee and building things"
   email: shridharmanvi@gmail.com
   disqus-shortname: shridharmanvi-portfolio
-  twitter: shridharmanvi #username
-  facebook: #username
+  twitter: shridharmanvi
+  facebook: manvishri
   google:
-    plus: #username
     analytics: UA-120049158-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: shridharmanvi #username
+  github: shridharmanvi
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  skype: #username
-  xing: #username
+  linkedin: shridhar-manvi-1aa08714
+  skype: manvishri
   instagram: 5point5shots
